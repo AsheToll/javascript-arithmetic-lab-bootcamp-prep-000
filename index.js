@@ -22,3 +22,9 @@ function inc(n) {
 function dec(n) {
   return n -= 1
 }
+// Make Integer
+function makeInt(n) {
+  return parseInt(n, 10)
+}
+// Preserve Decimal
+function 
