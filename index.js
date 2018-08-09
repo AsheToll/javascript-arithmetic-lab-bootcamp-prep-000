@@ -14,3 +14,8 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
+// Increment
+function inc(a, b) {
+  return 
+}
+// Decrement
